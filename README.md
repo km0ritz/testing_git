@@ -6,5 +6,8 @@
 * punkt
 * zwei punkt
 * noch einer
+* immer mehr punkte
+
+[x] erledigt
 
 
