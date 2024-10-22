@@ -1,4 +1,4 @@
-
+ 
 # testing_git
 
 ## meine zweite überschrift
@@ -12,5 +12,6 @@
 
 
 * [x] erledigt
-* [] Git konflikte
-* [] Start with thesis
+* [ ] Git konflikte
+* [ ] Start with thesis
+ 
