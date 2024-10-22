@@ -9,5 +9,5 @@
 * immer mehr punkte
 
 [x] erledigt
-
+[] Git konflikte
 
