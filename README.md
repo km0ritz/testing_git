@@ -8,6 +8,6 @@
 * noch einer
 * immer mehr punkte
 
-*[x] erledigt
-*[] Git konflikte
-
+* [x] erledigt
+* [] Git konflikte
+* [] Start with thesis
